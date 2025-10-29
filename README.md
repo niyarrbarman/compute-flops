@@ -1,4 +1,4 @@
-# FLOPs calculator for LLM pruning experiments
+# flops calculator for llm pruning exp
 
 this mini-project computes approximate FLOPs for a decoder-only llm across multiple datasets under three variants:
 
