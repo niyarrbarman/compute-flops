@@ -12,7 +12,7 @@ this mini-project computes approximate FLOPs for a decoder-only llm across multi
 python3 main.py
 ```
 
-## Notes
+## notes
 
 - flops are approximate and follow common accounting.
 - kv cache reduces attention cost in inference mode; disable via `KV_CACHE=False` in `main.py` to see the upper bound.
